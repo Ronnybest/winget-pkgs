@@ -17,7 +17,6 @@ ReleaseDate: 2026-10-01
 AppsAndFeaturesEntries:
 - DisplayName: SonarHotkeys
   Publisher: Danil
-  DisplayVersion: 3.0.0
   ProductCode: '{EC6D0426-A723-4038-AE6A-3941CA85D339}'
   UpgradeCode: '{1F9112C0-EC56-405F-A1BA-788764B40E80}'
 Installers:
